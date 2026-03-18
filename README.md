@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Saul 👋
 
-<!--
-**SaulDaSilva/SaulDaSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-focused Software Engineer with experience building real-world systems using Python, Django, and PostgreSQL.
 
-Here are some ideas to get you started:
+## 🚀 What I've built
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔹 Excalibur ERP
+Full-stack inventory and order management system built for a real family business.
+
+- Django + PostgreSQL + React + Docker
+- Inventory tracking, order lifecycle, dashboards
+- Real-world usage and operational impact
+
+👉 https://github.com/SaulDaSilva/excalibur-erp
+
+## 🛠 Tech Stack
+- Python (Django)
+- PostgreSQL / SQL
+- React
+- Docker
+- Linux
+
+## 📫 Contact
+- LinkedIn: https://linkedin.com/in/saul-da-silva
